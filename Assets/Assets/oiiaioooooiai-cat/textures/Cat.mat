@@ -1,8 +1,8 @@
-- !<Material/d6f6b5cb-445e-4502-9357-64c8de5141fc>
+- !<Material/058722f0-3135-4ff5-b024-a40eb02aa65f>
   PackagePath: ""
   PassesInfo:
-    - !<own> 79f759d5-fa77-4e40-9929-546fcd291d34
-- !<PassInfo/79f759d5-fa77-4e40-9929-546fcd291d34>
+    - !<own> 12e7a9c3-27d8-4ec0-b78b-4038d177964a
+- !<PassInfo/12e7a9c3-27d8-4ec0-b78b-4038d177964a>
   CachedProperties:
     - Port_Default_N204:
         typeIdx: 1
@@ -16,24 +16,6 @@
     - baseColor:
         typeIdx: 5
         value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
-    - baseTex:
-        typeIdx: 9
-        value:
-          id: 6482df73-02aa-468d-bed1-6f778eac1a6b
-          sampler:
-            filteringMode: Trilinear
-            wrapModeU: Repeat
-            wrapModeV: Repeat
-            wrapModeW: Repeat
-            borderColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
-            mipmaps: false
-          type: Texture2D
-    - baseTexTransform:
-        typeIdx: 7
-        value:
-          0: {x: 1.000000, y: 0.000000, z: 0.000000}
-          1: {x: 0.000000, y: 1.000000, z: 0.000000}
-          2: {x: 0.000000, y: 0.000000, z: 1.000000}
     - overrideTimeDelta:
         typeIdx: 1
         value: 0.000000
@@ -43,8 +25,8 @@
     - overrideTimeEnabled:
         typeIdx: 0
         value: 0
-  DepthWrite: true
-  DepthTest: true
+  DepthWrite: false
+  DepthTest: false
   DepthFunction: LessEqual
   TwoSided: false
   ColorMask: {x: true, y: true, z: true, w: true}
@@ -54,11 +36,11 @@
   FrustumCullPad: 0.000000
   InstanceCount: 1
   Defines:
-    - ENABLE_BASE_TEX
     - NODE_13_DROPLIST_ITEM 0
     - NODE_27_DROPLIST_ITEM 0
     - NODE_49_DROPLIST_ITEM 0
     - NODE_69_DROPLIST_ITEM 0
+    - ENABLE_BASE_TEX
   BlendMode: PremultipliedAlphaAuto
   Properties:
     Port_Default_N204:
@@ -73,13 +55,13 @@
     baseTex:
       typeIdx: 9
       value:
-        id: 6482df73-02aa-468d-bed1-6f778eac1a6b
+        id: 00000000-0000-0000-0000-000000000000
         sampler:
           filteringMode: Trilinear
           wrapModeU: Repeat
           wrapModeV: Repeat
           wrapModeW: Repeat
-          borderColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
           mipmaps: false
         type: Texture2D
     baseTexTransform:
@@ -97,4 +79,4 @@
     overrideTimeEnabled:
       typeIdx: 0
       value: 0
-  Pass: !<reference> ce5bf886-a328-413a-841c-9a2794edd981
+  Pass: !<reference> d9896b0f-0e2b-4339-aefd-f6d689c51339

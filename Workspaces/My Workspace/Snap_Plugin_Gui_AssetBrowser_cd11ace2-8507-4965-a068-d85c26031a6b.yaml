@@ -1,9 +1,31 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 954
+    size: 979
     values:
-      - Assets/oiiaioooooiai-cat
+      - Assets/frog-jump
+      - Assets/frog-jump/source/7.fbx/.hidden
+      - Assets/frog-jump/source/7.fbx/.hidden/Material
+      - Assets/frog-jump/source/7.fbx/.hidden/white
+      - Assets/frog-jump/source/7.fbx/7
+      - Assets/frog-jump/source/7.fbx/Animations
+      - Assets/frog-jump/source/7.fbx/Animations/metarig_jump
+      - Assets/frog-jump/source/7.fbx/Animations/metarig_jumpInPlace
+      - Assets/frog-jump/source/7.fbx/Materials/Material
+      - Assets/frog-jump/source/7.fbx/Meshes/CL_qingwa13.001
+      - Assets/frog-jump/source/7.fbx/Textures/FROG
+      - Assets/frog-jump/textures/FROG.png
+      - Assets/frog-jump/textures/normal.png
+      - Assets/little_frog.fbx
+      - Assets/little_frog.fbx/.hidden
+      - Assets/little_frog.fbx/.hidden/frog_mat
+      - Assets/little_frog.fbx/.hidden/white
+      - Assets/little_frog.fbx/Materials/frog_mat
+      - Assets/little_frog.fbx/Materials/ground
+      - Assets/little_frog.fbx/Meshes/Plane
+      - Assets/little_frog.fbx/Meshes/frog
+      - Assets/little_frog.fbx/Textures/moss
+      - Assets/little_frog.fbx/little_frog
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden/Muchkin2
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden/white
@@ -12,8 +34,10 @@ CollapsedEntities:
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/Materials/Muchkin2
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/Meshes/Muchkin1.002
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/OiiaioooooiaiFin
+      - Assets/oiiaioooooiai-cat/textures/Cat.mat
+      - Assets/oiiaioooooiai-cat/textures/ImageMaterial.mat
       - Assets/oiiaioooooiai-cat/textures/Muchkin2_BaseColor.png
-      - Assets/rubber-duck
+      - Assets/oiiaioooooiai-cat/textures/flat.ss_graph
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden/duckMAT
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden/white
@@ -29,16 +53,15 @@ CollapsedEntities:
       - Assets/shiba/source/1/1.FBX/.hidden/default
       - Assets/shiba/source/1/1.FBX/.hidden/white
       - Assets/shiba/source/1/1.FBX/1
-      - Assets/shiba/source/1/1.FBX/Materials
       - Assets/shiba/source/1/1.FBX/Materials/default
       - Assets/shiba/source/1/1.FBX/Meshes/Box002
       - Assets/shiba/source/1/1.FBX/Meshes/Group18985
       - Assets/shiba/source/1/1.FBX/Meshes/Object001
       - Assets/shiba/source/1/default_Base_Color.png
-      - Assets/shiba/textures
+      - Assets/shiba/textures/ImageMaterial 2.mat
+      - Assets/shiba/textures/ImageMaterial.mat
       - Assets/shiba/textures/default_Base_Color.png
       - Assets/shiba/textures/internal_ground_ao_texture.jpeg
-      - Assets/wolf
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden/01 - Default
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden/white
@@ -47,6 +70,7 @@ CollapsedEntities:
       - Assets/wolf/source/Wolf_test_animation_.fbx/Materials/01 - Default
       - Assets/wolf/source/Wolf_test_animation_.fbx/Meshes/wolf_base_mesh
       - Assets/wolf/source/Wolf_test_animation_.fbx/Wolf_test_animation_
+      - Assets/wolf/textures/ImageMaterial.mat
       - Assets/wolf/textures/wolf_difuse_001.tga.png
       - Echopark.hdr
       - Sounds/cat-meow-sound-1s.mp3
@@ -54,6 +78,7 @@ CollapsedEntities:
       - Sounds/dog-bark-1s.mp3
       - Sounds/duck-toy-sound-1s.mp3
       - Sounds/duck-toy-sound.mp3
+      - Sounds/frog-croak-1s.mp3
       - Sounds/wolf-auuu-1s.mp3
       - SpectaclesSyncKit
       - SpectaclesSyncKit/Components

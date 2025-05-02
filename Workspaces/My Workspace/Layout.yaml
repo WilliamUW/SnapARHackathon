@@ -24,6 +24,8 @@ dock:
                 Uuid: a14d85d7-9a15-42a6-913e-3f24dea267c2
               - persistentName: Snap.Plugin.Gui.ConnectedLensMonitorPanel
                 Uuid: 8e849182-8aea-41e5-9781-c7d479d97b6e
+              - persistentName: Snap.Plugin.Gui.Graph.Editor
+                Uuid: 4bc49399-ad1a-4530-bfd7-18c009ec7130
             type: section
             current: 0
           - items:
@@ -73,7 +75,7 @@ dock:
     sizes:
       - 408
       - 364
-      - 273
-      - 218
+      - 325
+      - 166
     type: splitter
     orientation: horizontal
