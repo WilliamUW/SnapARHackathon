@@ -1,35 +1,24 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 935
+    size: 925
     values:
-      - Assets/oiiaioooooiai-cat
-      - Assets/oiiaioooooiai-cat/source
-      - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden/Muchkin2
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden/white
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/Animations
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/Animations/BaseLayer
-      - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/Materials
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/Materials/Muchkin2
-      - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/Meshes
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/Meshes/Muchkin1.002
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/OiiaioooooiaiFin
-      - Assets/oiiaioooooiai-cat/textures
       - Assets/oiiaioooooiai-cat/textures/Muchkin2_BaseColor.png
-      - Assets/rubber-duck
-      - Assets/rubber-duck/source
-      - Assets/rubber-duck/source/RubberDuck.fbx
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden/duckMAT
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden/white
-      - Assets/rubber-duck/source/RubberDuck.fbx/Materials
       - Assets/rubber-duck/source/RubberDuck.fbx/Materials/duckMAT
-      - Assets/rubber-duck/source/RubberDuck.fbx/Meshes
       - Assets/rubber-duck/source/RubberDuck.fbx/Meshes/ducky
       - Assets/rubber-duck/source/RubberDuck.fbx/RubberDuck
-      - Assets/rubber-duck/textures
+      - Assets/rubber-duck/textures/ImageMaterial.mat
       - Assets/rubber-duck/textures/duck_BaseColor_Utility_-_sRGB_-_Texture.png
       - Assets/rubber-duck/textures/duck_Normal_Utility_-_Raw.png
       - Assets/rubber-duck/textures/duck_Roughness_Utility_-_Raw.png
@@ -938,4 +927,5 @@ CollapsedEntities:
       - SpectaclesSyncKit/Utils/Unsubscribe.ts
       - SpectaclesSyncKit/VersionNumber.ts
       - SpectaclesSyncKit/package.native
+      - image_unlit.ss_graph
   options: 4
