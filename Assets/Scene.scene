@@ -3913,7 +3913,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: 0.000000, y: 0.000000, z: -15.164192}
+    position: {x: 0.000000, y: 0.000000, z: -10.156204}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
@@ -7411,7 +7411,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -12.468497, y: 0.000000, z: 0.000000}
+    position: {x: -5.000000, y: 0.000000, z: 0.000000}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 0.300000, y: 0.300000, z: 0.300000}
     hasSegmentScaleCompensation: false
@@ -8662,7 +8662,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: 18.395456, y: 0.000000, z: 0.000000}
+    position: {x: 5.000000, y: 0.000000, z: 0.000000}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
@@ -12780,7 +12780,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 97bf97ae-b2da-47d7-bde6-003f597fe888
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
-      holdAudioTrack: !<reference.AudioTrackAsset> 1f009333-e06a-4af6-96c9-4a2e2917d2e4
+      holdAudioTrack: !<reference.AudioTrackAsset> d438b9be-36dc-42c2-afee-4371b0a129f5
   ScriptTypes:
     "":
       {}
@@ -14424,7 +14424,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 97bf97ae-b2da-47d7-bde6-003f597fe888
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
-      holdAudioTrack: !<reference.AudioTrackAsset> e4ba9241-bd38-4604-bdbc-52edfcd7d96e
+      holdAudioTrack: !<reference.AudioTrackAsset> 429d8a67-0dbe-4dfb-b1e3-e38f70df827c
   ScriptTypes:
     "":
       {}

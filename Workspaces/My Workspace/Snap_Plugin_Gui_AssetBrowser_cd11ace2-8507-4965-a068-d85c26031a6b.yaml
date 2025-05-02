@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 925
+    size: 927
     values:
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden/Muchkin2
@@ -24,7 +24,9 @@ CollapsedEntities:
       - Assets/rubber-duck/textures/duck_Roughness_Utility_-_Raw.png
       - Assets/rubber-duck/textures/internal_ground_ao_texture.jpeg
       - Echopark.hdr
+      - Sounds/cat-meow-sound-1s.mp3
       - Sounds/cat-meow-sound.mp3
+      - Sounds/duck-toy-sound-1s.mp3
       - Sounds/duck-toy-sound.mp3
       - SpectaclesSyncKit
       - SpectaclesSyncKit/Components
