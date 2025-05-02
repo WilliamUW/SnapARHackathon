@@ -824,8 +824,7 @@
   Children:
     - !<own> 756152ce-0948-4ce6-ad49-700d864f591f
     - !<own> 9bf3c2f8-3867-4984-a402-56d07f2a46ec
-    - !<own> 8fb978ba-9107-461e-b7b8-a7d3bd02d191
-    - !<own> 767ade61-3345-4122-bbec-11e10315b0b0
+    - !<own> 3bbdc936-dd1f-4433-9144-b312ef12cfa8
   Components:
     []
 - !<ScreenTransform/0c26a1a1-ecec-400c-a398-1fb1a8a6179e>
@@ -3214,7 +3213,7 @@
   Enabled: true
   ScriptAsset: !<reference> 1ad7da86-2c32-418c-bdf1-b7150c07c912
   ScriptInputsDefault:
-    {}
+    holdAudioTrack: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
@@ -3222,6 +3221,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 97bf97ae-b2da-47d7-bde6-003f597fe888
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
+      holdAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     "":
       {}
@@ -3906,6 +3906,22 @@
   ForceCompound: false
   Intangible: false
   ShowCollider: false
+- !<SceneObject/3bbdc936-dd1f-4433-9144-b312ef12cfa8>
+  PrefabRemaps:
+    []
+  Name: Object 0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -15.164192}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8fb978ba-9107-461e-b7b8-a7d3bd02d191
+    - !<own> 767ade61-3345-4122-bbec-11e10315b0b0
+  Components:
+    []
 - !<SceneObject/3c3f72a2-5ed3-4aec-93ac-c86c26ddd013>
   PrefabRemaps:
     []
@@ -8498,6 +8514,7 @@
   ScriptAsset: !<reference> 1ad7da86-2c32-418c-bdf1-b7150c07c912
   ScriptInputsDefault:
     hoverAudioTrack: true
+    holdAudioTrack: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
@@ -8505,6 +8522,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
+      holdAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     "":
       {}
@@ -9580,7 +9598,7 @@
   PrefabRemaps:
     []
   Name: SyncTransform
-  Enabled: true
+  Enabled: false
   Layers: 1
   LocalTransform:
     position: {x: 0.000000, y: 0.000000, z: 0.000000}
@@ -9626,7 +9644,7 @@
   Enabled: true
   ScriptAsset: !<reference> 1ad7da86-2c32-418c-bdf1-b7150c07c912
   ScriptInputsDefault:
-    {}
+    holdAudioTrack: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
@@ -9634,6 +9652,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 97bf97ae-b2da-47d7-bde6-003f597fe888
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
+      holdAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     "":
       {}
@@ -10381,6 +10400,7 @@
     hoverAudioTrack: true
     triggerStartAudioTrack: true
     triggerEndAudioTrack: true
+    holdAudioTrack: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
@@ -10388,6 +10408,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
       triggerStartAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      holdAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     "":
       {}
@@ -10942,7 +10963,7 @@
   Enabled: true
   ScriptAsset: !<reference> 1ad7da86-2c32-418c-bdf1-b7150c07c912
   ScriptInputsDefault:
-    {}
+    holdAudioTrack: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
@@ -10950,6 +10971,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 97bf97ae-b2da-47d7-bde6-003f597fe888
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
+      holdAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     "":
       {}
@@ -11817,6 +11839,7 @@
     hoverAudioTrack: true
     triggerStartAudioTrack: true
     triggerEndAudioTrack: true
+    holdAudioTrack: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
@@ -11824,6 +11847,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
       triggerStartAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      holdAudioTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     "":
       {}
@@ -12756,6 +12780,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 97bf97ae-b2da-47d7-bde6-003f597fe888
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
+      holdAudioTrack: !<reference.AudioTrackAsset> 1f009333-e06a-4af6-96c9-4a2e2917d2e4
   ScriptTypes:
     "":
       {}
@@ -14399,6 +14424,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 97bf97ae-b2da-47d7-bde6-003f597fe888
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
+      holdAudioTrack: !<reference.AudioTrackAsset> e4ba9241-bd38-4604-bdbc-52edfcd7d96e
   ScriptTypes:
     "":
       {}

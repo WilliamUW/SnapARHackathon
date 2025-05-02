@@ -1,7 +1,7 @@
 import {Interactable} from "../Interaction/Interactable/Interactable"
 import {validate} from "../../Utils/validate"
 /**
- * This class provides audio feedback for interactable objects. It allows configuration of audio tracks for hover, trigger start, and trigger end events. The class also provides access to the audio component for further customization.
+ * This class provides audio feedback for interactable objects. It allows configuration of audio tracks for hover, trigger start, trigger end, and hold events. The class also provides access to the audio component for further customization.
  */
 @component
 export class InteractableAudioFeedback extends BaseScriptComponent {
@@ -20,10 +20,17 @@ export class InteractableAudioFeedback extends BaseScriptComponent {
   @allowUndefined
   triggerEndAudioTrack: AudioTrackAsset | undefined
 
+  @input("Asset.AudioTrackAsset")
+  @hint("This sound will play when holding the Interactable")
+  @allowUndefined
+  holdAudioTrack: AudioTrackAsset | undefined
+
   private _hoverAudioComponent: AudioComponent | undefined
   private _triggerStartAudioComponent: AudioComponent | undefined
   private _triggerEndAudioComponent: AudioComponent | undefined
+  private _holdAudioComponent: AudioComponent | undefined
   private interactable: Interactable | null = null
+  private isHolding: boolean = false
 
   onAwake(): void {
     this.defineScriptEvents()
@@ -56,6 +63,13 @@ export class InteractableAudioFeedback extends BaseScriptComponent {
     return this._triggerEndAudioComponent
   }
 
+  /**
+   * Returns the AudioComponent used for hold feedback for further configuration (such as volume).
+   */
+  get holdAudioComponent(): AudioComponent | undefined {
+    return this._holdAudioComponent
+  }
+
   private setupInteractableCallbacks() {
     validate(this.interactable)
 
@@ -73,6 +87,15 @@ export class InteractableAudioFeedback extends BaseScriptComponent {
       try {
         if (this._triggerStartAudioComponent) {
           this._triggerStartAudioComponent.play(1)
+        }
+        if (this._holdAudioComponent) {
+          if (!this.isHolding) {
+            this._holdAudioComponent.play(-1)
+            this.isHolding = true
+          } else {
+            this._holdAudioComponent.stop(true)
+            this.isHolding = false
+          }
         }
       } catch (e) {
         print("Error playing trigger start audio: " + e)
@@ -125,6 +148,18 @@ export class InteractableAudioFeedback extends BaseScriptComponent {
         Audio.PlaybackMode?.LowLatency,
       )
       this._triggerEndAudioComponent.audioTrack = this.triggerEndAudioTrack
+    }
+
+    if (this.holdAudioTrack) {
+      this._holdAudioComponent = this.getSceneObject().createComponent(
+        "Component.AudioComponent",
+      ) as AudioComponent
+
+      this.setPlaybackMode(
+        this._holdAudioComponent,
+        Audio.PlaybackMode?.LowLatency,
+      )
+      this._holdAudioComponent.audioTrack = this.holdAudioTrack
     }
 
     this.interactable = this.getSceneObject().getComponent(
