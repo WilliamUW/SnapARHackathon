@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 939
+    size: 954
     values:
       - Assets/oiiaioooooiai-cat
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden
@@ -25,6 +25,20 @@ CollapsedEntities:
       - Assets/rubber-duck/textures/duck_Normal_Utility_-_Raw.png
       - Assets/rubber-duck/textures/duck_Roughness_Utility_-_Raw.png
       - Assets/rubber-duck/textures/internal_ground_ao_texture.jpeg
+      - Assets/shiba/source/1/1.FBX/.hidden
+      - Assets/shiba/source/1/1.FBX/.hidden/default
+      - Assets/shiba/source/1/1.FBX/.hidden/white
+      - Assets/shiba/source/1/1.FBX/1
+      - Assets/shiba/source/1/1.FBX/Materials
+      - Assets/shiba/source/1/1.FBX/Materials/default
+      - Assets/shiba/source/1/1.FBX/Meshes/Box002
+      - Assets/shiba/source/1/1.FBX/Meshes/Group18985
+      - Assets/shiba/source/1/1.FBX/Meshes/Object001
+      - Assets/shiba/source/1/default_Base_Color.png
+      - Assets/shiba/textures
+      - Assets/shiba/textures/default_Base_Color.png
+      - Assets/shiba/textures/internal_ground_ao_texture.jpeg
+      - Assets/wolf
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden/01 - Default
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden/white
@@ -37,6 +51,7 @@ CollapsedEntities:
       - Echopark.hdr
       - Sounds/cat-meow-sound-1s.mp3
       - Sounds/cat-meow-sound.mp3
+      - Sounds/dog-bark-1s.mp3
       - Sounds/duck-toy-sound-1s.mp3
       - Sounds/duck-toy-sound.mp3
       - Sounds/wolf-auuu-1s.mp3
