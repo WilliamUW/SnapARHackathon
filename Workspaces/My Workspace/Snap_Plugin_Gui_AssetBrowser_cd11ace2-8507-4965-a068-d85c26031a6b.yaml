@@ -1,8 +1,9 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 979
+    size: 984
     values:
+      - Assets/FrogImageMaterial.mat
       - Assets/frog-jump
       - Assets/frog-jump/source/7.fbx/.hidden
       - Assets/frog-jump/source/7.fbx/.hidden/Material
@@ -16,16 +17,17 @@ CollapsedEntities:
       - Assets/frog-jump/source/7.fbx/Textures/FROG
       - Assets/frog-jump/textures/FROG.png
       - Assets/frog-jump/textures/normal.png
-      - Assets/little_frog.fbx
-      - Assets/little_frog.fbx/.hidden
-      - Assets/little_frog.fbx/.hidden/frog_mat
-      - Assets/little_frog.fbx/.hidden/white
-      - Assets/little_frog.fbx/Materials/frog_mat
-      - Assets/little_frog.fbx/Materials/ground
-      - Assets/little_frog.fbx/Meshes/Plane
-      - Assets/little_frog.fbx/Meshes/frog
-      - Assets/little_frog.fbx/Textures/moss
-      - Assets/little_frog.fbx/little_frog
+      - Assets/frog/source/Frog.fbx/.hidden
+      - Assets/frog/source/Frog.fbx/.hidden/Frog
+      - Assets/frog/source/Frog.fbx/.hidden/white
+      - Assets/frog/source/Frog.fbx/Animations
+      - Assets/frog/source/Frog.fbx/Animations/Frog_Jump
+      - Assets/frog/source/Frog.fbx/Frog
+      - Assets/frog/source/Frog.fbx/Materials/Frog
+      - Assets/frog/source/Frog.fbx/Meshes/Plane
+      - Assets/frog/textures/Frog.png
+      - Assets/frog/textures/ImageMaterial.mat
+      - Assets/oiiaioooooiai-cat
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden/Muchkin2
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden/white
@@ -38,6 +40,7 @@ CollapsedEntities:
       - Assets/oiiaioooooiai-cat/textures/ImageMaterial.mat
       - Assets/oiiaioooooiai-cat/textures/Muchkin2_BaseColor.png
       - Assets/oiiaioooooiai-cat/textures/flat.ss_graph
+      - Assets/rubber-duck
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden/duckMAT
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden/white
@@ -49,6 +52,7 @@ CollapsedEntities:
       - Assets/rubber-duck/textures/duck_Normal_Utility_-_Raw.png
       - Assets/rubber-duck/textures/duck_Roughness_Utility_-_Raw.png
       - Assets/rubber-duck/textures/internal_ground_ao_texture.jpeg
+      - Assets/shiba
       - Assets/shiba/source/1/1.FBX/.hidden
       - Assets/shiba/source/1/1.FBX/.hidden/default
       - Assets/shiba/source/1/1.FBX/.hidden/white
@@ -62,6 +66,7 @@ CollapsedEntities:
       - Assets/shiba/textures/ImageMaterial.mat
       - Assets/shiba/textures/default_Base_Color.png
       - Assets/shiba/textures/internal_ground_ao_texture.jpeg
+      - Assets/wolf
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden/01 - Default
       - Assets/wolf/source/Wolf_test_animation_.fbx/.hidden/white
