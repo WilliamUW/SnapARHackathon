@@ -1,9 +1,10 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 984
+    size: 1002
     values:
       - Assets/FrogImageMaterial.mat
+      - Assets/frog
       - Assets/frog-jump
       - Assets/frog-jump/source/7.fbx/.hidden
       - Assets/frog-jump/source/7.fbx/.hidden/Material
@@ -27,6 +28,21 @@ CollapsedEntities:
       - Assets/frog/source/Frog.fbx/Meshes/Plane
       - Assets/frog/textures/Frog.png
       - Assets/frog/textures/ImageMaterial.mat
+      - Assets/gorilla/source/Gorilla_hd.zip
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/.hidden
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/.hidden/gorilla
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/.hidden/white
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Animations
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Animations/gorillaattack
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Animations/gorillaidle
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Animations/gorillarun
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Animations/gorillastomp
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Gorilla_hd
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Materials/gorilla
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Meshes/Mesh
+      - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/Textures/gorilla
+      - Assets/gorilla/source/Gorilla_hd/ImageMaterial.mat
+      - Assets/gorilla/textures/gorilla.png
       - Assets/oiiaioooooiai-cat
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden
       - Assets/oiiaioooooiai-cat/source/OiiaioooooiaiFin.fbx/.hidden/Muchkin2
@@ -78,12 +94,14 @@ CollapsedEntities:
       - Assets/wolf/textures/ImageMaterial.mat
       - Assets/wolf/textures/wolf_difuse_001.tga.png
       - Echopark.hdr
+      - Sounds/animals-auuuuuuuuuu.mp3
       - Sounds/cat-meow-sound-1s.mp3
       - Sounds/cat-meow-sound.mp3
       - Sounds/dog-bark-1s.mp3
       - Sounds/duck-toy-sound-1s.mp3
       - Sounds/duck-toy-sound.mp3
       - Sounds/frog-croak-1s.mp3
+      - Sounds/gorilla-1s.mp3
       - Sounds/wolf-auuu-1s.mp3
       - SpectaclesSyncKit
       - SpectaclesSyncKit/Components
