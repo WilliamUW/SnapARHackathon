@@ -1,0 +1,1006 @@
+- !<AssetImportMetadata/212dc36e-26dd-47af-83b9-5094c05199d6>
+  ImportedAssetIds:
+    .hidden/01 - Default: !<reference> bfc7882e-3ab7-4fcf-8bfc-3b7bc58bd46c
+    .hidden/white: !<reference> 547a1867-af53-475c-8d9c-a3e73ef887ca
+    0203148631992381: !<reference> 9c6aa0e7-7ccc-4254-9b41-cb961beb13d8
+    03abb811c541a282: !<reference> e3931e74-f0e1-4f02-a870-bf30fd29ebcb
+    10f2752cd6f08e4a: !<reference> f382da57-2bcb-4df4-8bd5-efc1e6b6273e
+    149e1eed5876b5dc: !<reference> 9ebd8b0a-54b0-46d2-bf7e-1e1e77555161
+    174603d3378d4fd3: !<reference> 804285cb-99ba-45e5-9940-ad2bcc708a48
+    18346ced8c4e46bc: !<reference> b63c62fd-a40f-4d35-b640-c4a7a27e4617
+    1ce735159df933fc: !<reference> 046494a6-7e42-4692-9ae7-219aa20723cd
+    1f73c7f755265f58: !<reference> 5f60a2e1-fcfb-4e70-97ac-4946980443a2
+    28206a3be728be36: !<reference> 5e00ad07-3627-462b-b66d-a43fe112cdc4
+    2c10fe8b258eb5c6: !<reference> 00f5d1a9-d1b6-432f-85e4-89b78e2f1f88
+    2e533f6b62c7b65b: !<reference> 7b85d530-841a-4335-a9f6-d3b02418f758
+    3346c1491b1614b0: !<reference> c97bec12-752f-4738-a5a8-02bcc82f6eee
+    3b981804e2407013: !<reference> 6f2e712e-ca51-4872-8f28-ae3a917bef59
+    423555fed214cca2: !<reference> 8743c79c-cc98-478a-97c8-4fedfe079547
+    51e0b426028d16de: !<reference> 691c3734-e8e5-45b9-b429-76f334043073
+    54c828f1f8e84ed9: !<reference> 48872055-fba0-4740-8e5c-27c8101aee80
+    54ea1551b97c1bdb: !<reference> cf6f03ce-b565-43a0-b4fa-e2cff6cbd40e
+    59a3864029b4b453: !<reference> 89f964ad-0c9f-48fd-95c3-cd379573806d
+    5b77f8024b0c76b4: !<reference> 4917f93e-cf74-4b09-8705-1b0a0a6e45d7
+    62a6887b1bba1f7f: !<reference> 0b64f654-243d-4527-aada-287b65f579e3
+    644b340baea17b2e: !<reference> 079974da-5600-44e8-ba00-d6e062687e72
+    664a86718ee74432: !<reference> eb26edfd-f7ad-46a9-8ebc-92eb14af8803
+    66780cf3a4dcb2b8: !<reference> a98ce0a4-affc-4f9f-b6c0-01a66473d477
+    6737292b4062b5ab: !<reference> b4c63180-a5cc-46b7-bb43-3aa0cf5a3f57
+    6d4c18030c7872a1: !<reference> add4ff40-03f2-49e6-afc0-90f3ee64d3e4
+    735caedc7374c3e9: !<reference> 20e967fc-dae6-407b-9a1c-84ed87d9e166
+    815ae7ad9fbeed24: !<reference> b0404615-4128-4c19-bd01-68a637d4640f
+    877315d2319090bc: !<reference> afd37c02-a803-4a8e-b91a-2d319cd9e3df
+    989e2385b561d2d4: !<reference> ca8b306f-75aa-4df0-b6d9-02fe262edc2c
+    9b7e8bdd67bfbf7a: !<reference> 99ff3ceb-17a9-466e-9979-feb4c435ba1a
+    Animations/BaseLayer: !<reference> c0999067-739c-4568-9d4d-d41295ea8d58
+    Materials/01 - Default: !<reference> 90a8bd0c-efca-4aeb-8e95-aa7af2e04e52
+    Materials/01 - Default|01 - Default|GraphPassInfo: !<reference> 28686c59-52ae-4114-a632-b62a15d18bdb
+    Meshes/wolf_base_mesh: !<reference> a1592553-0947-451f-b346-151dba8c793e
+    Scene: !<reference> 58018676-987f-488f-aedd-b31488f2830b
+    a44d4d265c6f228a: !<reference> 1fd12c6d-795b-4da7-bbea-4a239725c0d9
+    a55347866e041d88: !<reference> 5363becd-1e00-47e8-9e5c-a3edb17a993b
+    a64a1ab2fb0ac4cb: !<reference> 6d689bfb-6864-4a4f-9a28-82128e2b7ed1
+    aa6ea27027e13c7f: !<reference> ec2d6906-3b3b-4798-8b60-8885afb7a022
+    ae949b696c0062c3: !<reference> 7d938b2a-68e4-4a5a-a71e-8a1c14743fb8
+    b1288e807e17e445: !<reference> 16420e7f-da7b-4487-81e7-41b7b848de5d
+    b15d2d0942d71479: !<reference> cce47b3e-175c-41d0-a1e2-a512318c7a4a
+    b22b75296490eb12: !<reference> fcd9d43c-5d07-4d7d-9666-ac422f812375
+    bd8dede98b22066b: !<reference> f29f0e3a-2af7-4536-a20b-0dd48c9b71ab
+    c002dc5cbaa1e828: !<reference> 82a3f1ab-1c8b-44ad-85e9-f23afebb3d89
+    cd9655088c9692c2: !<reference> b4d3057b-8309-4959-8f99-dec18db9fde7
+    cf108f8daa693e4e: !<reference> 6746456e-dafe-4319-82b2-aa4a8a3ef431
+    d147040d35b953be: !<reference> b94eb144-11ce-46aa-ab92-88fed25b6074
+    d33e36fd8a8bc533: !<reference> f52c6986-b70f-4705-ac8d-fadb4e1df9bc
+    d37ba4bbc455f46a: !<reference> 93deca55-9b3f-4fba-8d20-caf202970ff8
+    d48129fd6a7a2a8a: !<reference> 473e6fcb-c566-4098-a1f9-17e300516f91
+    d56449042852e538: !<reference> 880ff0cb-89f3-4e83-a660-da032ea1163e
+    de1c2f8c9545568d: !<reference> f9913db9-f6fe-4bd7-975b-25562f1f9381
+    e66f25ad2366abfa: !<reference> e21c9902-2630-404d-85ee-93c3468f3245
+    f585c0864b3f851b: !<reference> 983c1d88-b1a6-432a-9fd0-d87ff0dcfdd3
+    f98875408b9865ba: !<reference> 37ccc1f6-228f-42bb-9c23-61e0227af52d
+    fa91f570a93e2daa: !<reference> b45437a2-d91b-4e3a-a9c8-6133b90c76eb
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> 58018676-987f-488f-aedd-b31488f2830b
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> d4771ce1-fe10-4dfb-8083-1a8d3610b7b0
+  DependentFiles:
+    []
+  ImporterSettings: !<FbxImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: true
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/018847e5-cd11-4932-86b2-6ff759b3c194>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLegShoulderblade
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -7.258930, y: -6.414898, z: -5.436159}
+    rotation: {x: 165.787018, y: 12.640792, z: 84.233551}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0f711ef3-e687-4fad-a46d-07a368833fbd
+  Components:
+    []
+- !<SceneObject/057887e5-a3d8-4434-81e1-1fbe6a2baf72>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herNeck1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.003731, y: -0.006584, z: -0.000107}
+    rotation: {x: -0.012318, y: -1.396690, z: -11.827710}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 70223039-8299-472e-b836-54636c0bb122
+  Components:
+    []
+- !<SceneObject/0a00d5d2-756e-4d24-a9e2-6ceaf8df9cd0>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herTail4
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 14.492240, y: 0.000000, z: 0.000000}
+    rotation: {x: 2.431385, y: -2.140548, z: 26.716143}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/0aa4c412-44bf-4faf-b91b-351480deb14c>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLegDigit01
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 14.023750, y: 0.432619, z: 0.483460}
+    rotation: {x: 14.353552, y: -5.293490, z: 13.605060}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e76ba90f-09cd-41cb-abf8-ceaa83ab17d9
+  Components:
+    []
+- !<SceneObject/0d4a613c-0086-41c4-9524-1ea91e76cb00>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herSpine3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 17.576111, y: -0.000008, z: -0.000039}
+    rotation: {x: 0.656933, y: 3.854873, z: 0.936474}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b399a57b-5639-487b-a56c-19bc986188c5
+  Components:
+    []
+- !<SceneObject/0f711ef3-e687-4fad-a46d-07a368833fbd>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLeg1_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 24.019091, y: 0.000000, z: 0.000008}
+    rotation: {x: -9.893603, y: -6.775290, z: -90.052193}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e2211c5e-5ae5-40d1-ad94-4ad8a9c3dd68
+  Components:
+    []
+- !<SceneObject/155ad1de-cf7c-414d-b86c-12c17dd81eb5>
+  PrefabRemaps:
+    []
+  Name: ¡¡×ý×û001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/1fec6c47-805b-4c5d-bbb9-e2f654fccb44>
+  PrefabRemaps:
+    []
+  Name: ×þ×ü001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/2570df28-6e02-48ed-9532-27382e21e07b>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone011Bone001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 3.899799, y: 2.608185, z: 0.000002}
+    rotation: {x: 0.000000, y: -0.000000, z: -33.824242}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e65b4797-22ba-4f08-b55b-626aedd0204d
+  Components:
+    []
+- !<SceneObject/3682178d-1ce1-4868-904f-6ddb6a5b5cee>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herTail1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -5.795502, y: -3.097546, z: 0.000001}
+    rotation: {x: 3.579223, y: -2.758356, z: -168.517700}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a00be98f-0e5f-418a-98c5-ec3732c5d08e
+  Components:
+    []
+- !<SceneObject/38190f5a-b6eb-46be-9a8d-19e4d263d20d>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herTail3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 18.013821, y: -0.000008, z: 0.000004}
+    rotation: {x: 4.629896, y: -4.097030, z: 39.217720}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0a00d5d2-756e-4d24-a9e2-6ceaf8df9cd0
+  Components:
+    []
+- !<SceneObject/382bf42b-a6f0-4f86-babb-9f676049f8fe>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone009
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 7.925621, y: -1.717453, z: -4.754939}
+    rotation: {x: -0.436894, y: 4.980935, z: -32.837875}
+    scale: {x: 1.000000, y: 0.999999, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/3ba19656-0f01-4da4-9a81-cf7d5bf64bcb>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone007Bone001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 5.488205, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000010, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/4edbb88e-394a-4f0a-b560-fe04f51889d2>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone007
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -4.212334, y: -5.187164, z: -7.375661}
+    rotation: {x: 7.133750, y: 29.090712, z: -94.931976}
+    scale: {x: 0.999999, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3ba19656-0f01-4da4-9a81-cf7d5bf64bcb
+  Components:
+    []
+- !<RenderMeshVisual/4ff44dcf-34f5-4025-ab7d-1d4b122ad969>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 90a8bd0c-efca-4aeb-8e95-aa7af2e04e52
+  Mesh: !<reference> a1592553-0947-451f-b346-151dba8c793e
+  Skin: !<reference> 5dccf0a9-d6db-45e0-b069-3d2149c0441e
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/57804ad1-ce6b-4f37-a823-1892fabe7afe>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone011Bone001Bone001Bone001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 4.088444, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: -0.000010}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/5c4ca93c-42da-4eaf-a086-368fd4634826>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLeg1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -2.189011, y: 1.270309, z: -7.044482}
+    rotation: {x: -179.529297, y: 6.118131, z: 71.014793}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> bf2baf82-c36a-43dd-85ca-7eef687664e4
+  Components:
+    []
+- !<Skin/5dccf0a9-d6db-45e0-b069-3d2149c0441e>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  skinBones:
+    Wolf_bones_herHead: !<reference> d8009259-07e9-4eb9-820e-23bcc01cead4
+    Wolf_bones_herLLeg1: !<reference> 8d7c3c1b-585f-46a1-8f45-87687794372b
+    Wolf_bones_herLLeg1_2: !<reference> cadd790a-406f-4ac7-9a14-c27a35faf88b
+    Wolf_bones_herLLeg2: !<reference> cf1b8d87-0015-42d1-8950-ca964a5cde34
+    Wolf_bones_herLLeg2_2: !<reference> e9037a07-6fe1-4c19-b606-27173599a804
+    Wolf_bones_herLLegDigit01: !<reference> b322c3ee-564e-4aac-98f4-03e86ba67ddf
+    Wolf_bones_herLLegDigit01_2: !<reference> beeed92b-d90c-4e7e-b2f9-8b87d326db7f
+    Wolf_bones_herLLegDigit02: !<reference> 74a6c214-2f1f-41c3-bba3-37c0ae33cfd9
+    Wolf_bones_herLLegDigit02_2: !<reference> 623b275b-4661-4d8c-a490-e6f775dd8b6f
+    Wolf_bones_herLLegPalm: !<reference> a2dae954-9dda-4c5f-8d64-393a8928dcc3
+    Wolf_bones_herLLegPalm_2: !<reference> 844108b1-a710-4c9a-afce-e359fffb5088
+    Wolf_bones_herLLegShoulderblade: !<reference> 7eaea870-7276-44d9-a21a-d1485ad7b72c
+    Wolf_bones_herNeck1: !<reference> 057887e5-a3d8-4434-81e1-1fbe6a2baf72
+    Wolf_bones_herNeck2: !<reference> 70223039-8299-472e-b836-54636c0bb122
+    Wolf_bones_herNeck3: !<reference> 9341f91c-9fd3-42be-8a1a-6bd0be3daff5
+    Wolf_bones_herPelvis: !<reference> f3d2cdaf-8576-4e97-8d1c-d88bcb95d91b
+    Wolf_bones_herRLeg1: !<reference> 5c4ca93c-42da-4eaf-a086-368fd4634826
+    Wolf_bones_herRLeg1_2: !<reference> 0f711ef3-e687-4fad-a46d-07a368833fbd
+    Wolf_bones_herRLeg2: !<reference> bf2baf82-c36a-43dd-85ca-7eef687664e4
+    Wolf_bones_herRLeg2_2: !<reference> e2211c5e-5ae5-40d1-ad94-4ad8a9c3dd68
+    Wolf_bones_herRLegDigit01: !<reference> 0aa4c412-44bf-4faf-b91b-351480deb14c
+    Wolf_bones_herRLegDigit01_2: !<reference> b05df887-404d-4c02-8cda-e811bf5b5859
+    Wolf_bones_herRLegDigit02: !<reference> e76ba90f-09cd-41cb-abf8-ceaa83ab17d9
+    Wolf_bones_herRLegDigit02_2: !<reference> fe896c10-d715-436a-9b76-26c45effe428
+    Wolf_bones_herRLegPalm: !<reference> b414a1a1-230a-40d9-9e5c-35286c1793d5
+    Wolf_bones_herRLegPalm_2: !<reference> cf4664da-51da-4434-a928-845114e3e16b
+    Wolf_bones_herRLegShoulderblade: !<reference> 018847e5-cd11-4932-86b2-6ff759b3c194
+    Wolf_bones_herRibcage: !<reference> b399a57b-5639-487b-a56c-19bc986188c5
+    Wolf_bones_herSpine1: !<reference> 79a81cf4-7514-4770-889d-b04aea845361
+    Wolf_bones_herSpine2: !<reference> 8a326370-2c73-4636-a93a-a243bf1ad018
+    Wolf_bones_herSpine3: !<reference> 0d4a613c-0086-41c4-9524-1ea91e76cb00
+    Wolf_bones_herTail1: !<reference> 3682178d-1ce1-4868-904f-6ddb6a5b5cee
+    Wolf_bones_herTail2: !<reference> a00be98f-0e5f-418a-98c5-ec3732c5d08e
+    Wolf_bones_herTail3: !<reference> 38190f5a-b6eb-46be-9a8d-19e4d263d20d
+    Wolf_bones_herTail4: !<reference> 0a00d5d2-756e-4d24-a9e2-6ceaf8df9cd0
+    Wolf_test_animation_: !<reference> cd5fd4fa-0b20-4727-9a91-93ca43e25a57
+    bones_HeadBone007: !<reference> 4edbb88e-394a-4f0a-b560-fe04f51889d2
+    bones_HeadBone007Bone001: !<reference> 3ba19656-0f01-4da4-9a81-cf7d5bf64bcb
+    bones_HeadBone007Bone001_2: !<reference> c298200f-3885-47de-af28-9adf578d7a54
+    bones_HeadBone008: !<reference> dcfa4cf6-99f8-4e74-b748-9c10a5985ba8
+    bones_HeadBone009: !<reference> 382bf42b-a6f0-4f86-babb-9f676049f8fe
+    bones_HeadBone010: !<reference> 9f9c804c-6e22-4def-9496-912805f1f3c5
+    bones_HeadBone011: !<reference> 6f6bc1a4-cf3d-4078-ad29-8d00501abacc
+    bones_HeadBone011Bone001: !<reference> 2570df28-6e02-48ed-9532-27382e21e07b
+    bones_HeadBone011Bone001Bone001: !<reference> e65b4797-22ba-4f08-b55b-626aedd0204d
+    bones_HeadBone011Bone001Bone001Bone001: !<reference> 57804ad1-ce6b-4f37-a823-1892fabe7afe
+    wolf_base_mesh: !<reference> 6c97d67e-af65-4be5-a4cc-6fe0f9ab8e8d
+    ¡¡×ý×û001: !<reference> 155ad1de-cf7c-414d-b86c-12c17dd81eb5
+    ×þ×ü001: !<reference> 1fec6c47-805b-4c5d-bbb9-e2f654fccb44
+- !<SceneObject/623b275b-4661-4d8c-a490-e6f775dd8b6f>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLegDigit02_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 4.375637, y: -0.000015, z: -0.000000}
+    rotation: {x: -0.493353, y: -0.905105, z: 29.259192}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/6c97d67e-af65-4be5-a4cc-6fe0f9ab8e8d>
+  PrefabRemaps:
+    []
+  Name: wolf_base_mesh
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: -0.001810, z: -0.004977}
+    rotation: {x: -90.000000, y: 5.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4ff44dcf-34f5-4025-ab7d-1d4b122ad969
+- !<SceneObject/6f6bc1a4-cf3d-4078-ad29-8d00501abacc>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone011
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000707, y: 0.730235, z: 0.866161}
+    rotation: {x: -90.099152, y: -50.609711, z: -89.761902}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2570df28-6e02-48ed-9532-27382e21e07b
+  Components:
+    []
+- !<SceneObject/70223039-8299-472e-b836-54636c0bb122>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herNeck2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 11.080640, y: 0.000004, z: -0.000001}
+    rotation: {x: -1.117324, y: -3.329581, z: -2.224419}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9341f91c-9fd3-42be-8a1a-6bd0be3daff5
+  Components:
+    []
+- !<SceneObject/74a6c214-2f1f-41c3-bba3-37c0ae33cfd9>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLegDigit02
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 5.113856, y: 0.000000, z: 0.000002}
+    rotation: {x: 4.440945, y: -1.808748, z: 15.701947}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/79a81cf4-7514-4770-889d-b04aea845361>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herSpine1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.618646, y: 0.541609, z: 13.747540}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8a326370-2c73-4636-a93a-a243bf1ad018
+  Components:
+    []
+- !<AnimationPlayer/7a3a56a3-3863-4c6c-a431-066f4fd66036>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip>
+      AnimationAsset: !<reference> c0999067-739c-4568-9d4d-d41295ea8d58
+      Name: BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 20.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+- !<SceneObject/7eaea870-7276-44d9-a21a-d1485ad7b72c>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLegShoulderblade
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -7.089485, y: -6.431839, z: 5.636006}
+    rotation: {x: -166.345001, y: -14.893673, z: 67.485176}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cadd790a-406f-4ac7-9a14-c27a35faf88b
+  Components:
+    []
+- !<SceneObject/844108b1-a710-4c9a-afce-e359fffb5088>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLegPalm_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 27.475700, y: 0.000004, z: 0.000007}
+    rotation: {x: -9.570589, y: 1.329102, z: 2.079643}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> beeed92b-d90c-4e7e-b2f9-8b87d326db7f
+  Components:
+    []
+- !<SceneObject/8a326370-2c73-4636-a93a-a243bf1ad018>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herSpine2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 17.576401, y: 0.000000, z: -0.000030}
+    rotation: {x: 0.963460, y: 4.459555, z: 6.211426}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0d4a613c-0086-41c4-9524-1ea91e76cb00
+  Components:
+    []
+- !<SceneObject/8d7c3c1b-585f-46a1-8f45-87687794372b>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLeg1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -2.189013, y: 1.270309, z: 7.044483}
+    rotation: {x: -175.269501, y: -16.955202, z: 101.072990}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cf1b8d87-0015-42d1-8950-ca964a5cde34
+  Components:
+    []
+- !<SceneObject/9341f91c-9fd3-42be-8a1a-6bd0be3daff5>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herNeck3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 11.080360, y: -0.000004, z: 0.000103}
+    rotation: {x: -0.908265, y: -1.817765, z: 19.291349}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d8009259-07e9-4eb9-820e-23bcc01cead4
+  Components:
+    []
+- !<SceneObject/9f9c804c-6e22-4def-9496-912805f1f3c5>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone010
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 7.925617, y: -1.717438, z: 4.754940}
+    rotation: {x: 0.880448, y: -9.961558, z: -32.895607}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/a00be98f-0e5f-418a-98c5-ec3732c5d08e>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herTail2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 13.179230, y: -0.000008, z: -0.000003}
+    rotation: {x: 5.929915, y: -4.503365, z: -22.429411}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 38190f5a-b6eb-46be-9a8d-19e4d263d20d
+  Components:
+    []
+- !<SceneObject/a2dae954-9dda-4c5f-8d64-393a8928dcc3>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLegPalm
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 25.500509, y: 0.000000, z: -0.000002}
+    rotation: {x: 6.908081, y: 6.154081, z: 56.671940}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b322c3ee-564e-4aac-98f4-03e86ba67ddf
+  Components:
+    []
+- !<ObjectPrefab/a420364f-1037-45fc-a0c9-7baf7d515975>
+  PackagePath: ""
+  objects:
+    - !<own> cd5fd4fa-0b20-4727-9a91-93ca43e25a57
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/b05df887-404d-4c02-8cda-e811bf5b5859>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLegDigit01_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 8.157537, y: 0.632545, z: 0.016588}
+    rotation: {x: 8.318729, y: -13.058981, z: -54.705532}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> fe896c10-d715-436a-9b76-26c45effe428
+  Components:
+    []
+- !<SceneObject/b322c3ee-564e-4aac-98f4-03e86ba67ddf>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLegDigit01
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 14.024040, y: 0.425860, z: -0.482312}
+    rotation: {x: -4.288744, y: 7.101051, z: -7.609742}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 74a6c214-2f1f-41c3-bba3-37c0ae33cfd9
+  Components:
+    []
+- !<SceneObject/b399a57b-5639-487b-a56c-19bc986188c5>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRibcage
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 17.574980, y: -0.000015, z: 0.000000}
+    rotation: {x: 0.000122, y: -0.000137, z: -12.278190}
+    scale: {x: 0.999999, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7eaea870-7276-44d9-a21a-d1485ad7b72c
+    - !<own> 018847e5-cd11-4932-86b2-6ff759b3c194
+    - !<own> 057887e5-a3d8-4434-81e1-1fbe6a2baf72
+  Components:
+    []
+- !<SceneObject/b414a1a1-230a-40d9-9e5c-35286c1793d5>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLegPalm
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 25.500521, y: -0.000010, z: -0.000002}
+    rotation: {x: -4.615849, y: -6.596934, z: 51.335606}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0aa4c412-44bf-4faf-b91b-351480deb14c
+  Components:
+    []
+- !<SceneObject/beeed92b-d90c-4e7e-b2f9-8b87d326db7f>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLegDigit01_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 8.157536, y: 0.633652, z: -0.016991}
+    rotation: {x: 15.107289, y: 8.480246, z: -11.337318}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 623b275b-4661-4d8c-a490-e6f775dd8b6f
+  Components:
+    []
+- !<SceneObject/bf2baf82-c36a-43dd-85ca-7eef687664e4>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLeg2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 28.828581, y: -0.000118, z: -0.000044}
+    rotation: {x: -3.344095, y: 9.690369, z: -46.785473}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b414a1a1-230a-40d9-9e5c-35286c1793d5
+  Components:
+    []
+- !<SceneObject/c298200f-3885-47de-af28-9adf578d7a54>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone007Bone001_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 5.488220, y: 0.000008, z: 0.000004}
+    rotation: {x: -0.000000, y: -0.000000, z: 1.218500}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/cadd790a-406f-4ac7-9a14-c27a35faf88b>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLeg1_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 24.019091, y: -0.000015, z: 0.000000}
+    rotation: {x: -14.391820, y: -20.216221, z: -39.659893}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e9037a07-6fe1-4c19-b606-27173599a804
+  Components:
+    []
+- !<SceneObject/cd5fd4fa-0b20-4727-9a91-93ca43e25a57>
+  PrefabRemaps:
+    []
+  Name: Wolf_test_animation_
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6c97d67e-af65-4be5-a4cc-6fe0f9ab8e8d
+    - !<own> 1fec6c47-805b-4c5d-bbb9-e2f654fccb44
+    - !<own> 155ad1de-cf7c-414d-b86c-12c17dd81eb5
+    - !<own> f3d2cdaf-8576-4e97-8d1c-d88bcb95d91b
+    - !<own> 6f6bc1a4-cf3d-4078-ad29-8d00501abacc
+  Components:
+    - !<own> 5dccf0a9-d6db-45e0-b069-3d2149c0441e
+    - !<own> 7a3a56a3-3863-4c6c-a431-066f4fd66036
+- !<SceneObject/cf1b8d87-0015-42d1-8950-ca964a5cde34>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLeg2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 28.828590, y: -0.000118, z: 0.000050}
+    rotation: {x: 14.774022, y: -14.097758, z: -92.356834}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a2dae954-9dda-4c5f-8d64-393a8928dcc3
+  Components:
+    []
+- !<SceneObject/cf4664da-51da-4434-a928-845114e3e16b>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLegPalm_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 27.475700, y: -0.000011, z: -0.000010}
+    rotation: {x: 5.784355, y: -12.933681, z: -18.671488}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b05df887-404d-4c02-8cda-e811bf5b5859
+  Components:
+    []
+- !<ObjectPrefabAssetData/d4771ce1-fe10-4dfb-8083-1a8d3610b7b0>
+  SourceRemaps:
+    - 00f5d1a9-d1b6-432f-85e4-89b78e2f1f88: 0d4a613c-0086-41c4-9524-1ea91e76cb00
+    - 046494a6-7e42-4692-9ae7-219aa20723cd: c298200f-3885-47de-af28-9adf578d7a54
+    - 079974da-5600-44e8-ba00-d6e062687e72: 57804ad1-ce6b-4f37-a823-1892fabe7afe
+    - 0b64f654-243d-4527-aada-287b65f579e3: 6f6bc1a4-cf3d-4078-ad29-8d00501abacc
+    - 16420e7f-da7b-4487-81e7-41b7b848de5d: 057887e5-a3d8-4434-81e1-1fbe6a2baf72
+    - 1fd12c6d-795b-4da7-bbea-4a239725c0d9: beeed92b-d90c-4e7e-b2f9-8b87d326db7f
+    - 20e967fc-dae6-407b-9a1c-84ed87d9e166: cadd790a-406f-4ac7-9a14-c27a35faf88b
+    - 37ccc1f6-228f-42bb-9c23-61e0227af52d: 9341f91c-9fd3-42be-8a1a-6bd0be3daff5
+    - 473e6fcb-c566-4098-a1f9-17e300516f91: 79a81cf4-7514-4770-889d-b04aea845361
+    - 48872055-fba0-4740-8e5c-27c8101aee80: 0a00d5d2-756e-4d24-a9e2-6ceaf8df9cd0
+    - 4917f93e-cf74-4b09-8705-1b0a0a6e45d7: 4edbb88e-394a-4f0a-b560-fe04f51889d2
+    - 5363becd-1e00-47e8-9e5c-a3edb17a993b: 0aa4c412-44bf-4faf-b91b-351480deb14c
+    - 58018676-987f-488f-aedd-b31488f2830b: a420364f-1037-45fc-a0c9-7baf7d515975
+    - 5e00ad07-3627-462b-b66d-a43fe112cdc4: 623b275b-4661-4d8c-a490-e6f775dd8b6f
+    - 5f60a2e1-fcfb-4e70-97ac-4946980443a2: 2570df28-6e02-48ed-9532-27382e21e07b
+    - 6746456e-dafe-4319-82b2-aa4a8a3ef431: e65b4797-22ba-4f08-b55b-626aedd0204d
+    - 691c3734-e8e5-45b9-b429-76f334043073: 5c4ca93c-42da-4eaf-a086-368fd4634826
+    - 6d689bfb-6864-4a4f-9a28-82128e2b7ed1: a2dae954-9dda-4c5f-8d64-393a8928dcc3
+    - 6f2e712e-ca51-4872-8f28-ae3a917bef59: 38190f5a-b6eb-46be-9a8d-19e4d263d20d
+    - 7b85d530-841a-4335-a9f6-d3b02418f758: 74a6c214-2f1f-41c3-bba3-37c0ae33cfd9
+    - 7d938b2a-68e4-4a5a-a71e-8a1c14743fb8: cf4664da-51da-4434-a928-845114e3e16b
+    - 804285cb-99ba-45e5-9940-ad2bcc708a48: 70223039-8299-472e-b836-54636c0bb122
+    - 82a3f1ab-1c8b-44ad-85e9-f23afebb3d89: d8009259-07e9-4eb9-820e-23bcc01cead4
+    - 8743c79c-cc98-478a-97c8-4fedfe079547: 7eaea870-7276-44d9-a21a-d1485ad7b72c
+    - 880ff0cb-89f3-4e83-a660-da032ea1163e: 7a3a56a3-3863-4c6c-a431-066f4fd66036
+    - 89f964ad-0c9f-48fd-95c3-cd379573806d: f3d2cdaf-8576-4e97-8d1c-d88bcb95d91b
+    - 93deca55-9b3f-4fba-8d20-caf202970ff8: fe896c10-d715-436a-9b76-26c45effe428
+    - 983c1d88-b1a6-432a-9fd0-d87ff0dcfdd3: dcfa4cf6-99f8-4e74-b748-9c10a5985ba8
+    - 99ff3ceb-17a9-466e-9979-feb4c435ba1a: a00be98f-0e5f-418a-98c5-ec3732c5d08e
+    - 9c6aa0e7-7ccc-4254-9b41-cb961beb13d8: 9f9c804c-6e22-4def-9496-912805f1f3c5
+    - 9ebd8b0a-54b0-46d2-bf7e-1e1e77555161: e2211c5e-5ae5-40d1-ad94-4ad8a9c3dd68
+    - a98ce0a4-affc-4f9f-b6c0-01a66473d477: cd5fd4fa-0b20-4727-9a91-93ca43e25a57
+    - add4ff40-03f2-49e6-afc0-90f3ee64d3e4: 8a326370-2c73-4636-a93a-a243bf1ad018
+    - afd37c02-a803-4a8e-b91a-2d319cd9e3df: 1fec6c47-805b-4c5d-bbb9-e2f654fccb44
+    - b0404615-4128-4c19-bd01-68a637d4640f: e76ba90f-09cd-41cb-abf8-ceaa83ab17d9
+    - b45437a2-d91b-4e3a-a9c8-6133b90c76eb: 018847e5-cd11-4932-86b2-6ff759b3c194
+    - b4c63180-a5cc-46b7-bb43-3aa0cf5a3f57: b322c3ee-564e-4aac-98f4-03e86ba67ddf
+    - b4d3057b-8309-4959-8f99-dec18db9fde7: 6c97d67e-af65-4be5-a4cc-6fe0f9ab8e8d
+    - b63c62fd-a40f-4d35-b640-c4a7a27e4617: 155ad1de-cf7c-414d-b86c-12c17dd81eb5
+    - b94eb144-11ce-46aa-ab92-88fed25b6074: b414a1a1-230a-40d9-9e5c-35286c1793d5
+    - c97bec12-752f-4738-a5a8-02bcc82f6eee: bf2baf82-c36a-43dd-85ca-7eef687664e4
+    - ca8b306f-75aa-4df0-b6d9-02fe262edc2c: b05df887-404d-4c02-8cda-e811bf5b5859
+    - cce47b3e-175c-41d0-a1e2-a512318c7a4a: 844108b1-a710-4c9a-afce-e359fffb5088
+    - cf6f03ce-b565-43a0-b4fa-e2cff6cbd40e: 3682178d-1ce1-4868-904f-6ddb6a5b5cee
+    - e21c9902-2630-404d-85ee-93c3468f3245: 5dccf0a9-d6db-45e0-b069-3d2149c0441e
+    - e3931e74-f0e1-4f02-a870-bf30fd29ebcb: 4ff44dcf-34f5-4025-ab7d-1d4b122ad969
+    - eb26edfd-f7ad-46a9-8ebc-92eb14af8803: 0f711ef3-e687-4fad-a46d-07a368833fbd
+    - ec2d6906-3b3b-4798-8b60-8885afb7a022: 8d7c3c1b-585f-46a1-8f45-87687794372b
+    - f29f0e3a-2af7-4536-a20b-0dd48c9b71ab: 382bf42b-a6f0-4f86-babb-9f676049f8fe
+    - f382da57-2bcb-4df4-8bd5-efc1e6b6273e: e9037a07-6fe1-4c19-b606-27173599a804
+    - f52c6986-b70f-4705-ac8d-fadb4e1df9bc: b399a57b-5639-487b-a56c-19bc986188c5
+    - f9913db9-f6fe-4bd7-975b-25562f1f9381: 3ba19656-0f01-4da4-9a81-cf7d5bf64bcb
+    - fcd9d43c-5d07-4d7d-9666-ac422f812375: cf1b8d87-0015-42d1-8950-ca964a5cde34
+  SourceState: !<own> a420364f-1037-45fc-a0c9-7baf7d515975
+- !<SceneObject/d8009259-07e9-4eb9-820e-23bcc01cead4>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herHead
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 11.080360, y: 0.000000, z: -0.000039}
+    rotation: {x: 3.792125, y: -0.623123, z: 37.137325}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 382bf42b-a6f0-4f86-babb-9f676049f8fe
+    - !<own> 9f9c804c-6e22-4def-9496-912805f1f3c5
+    - !<own> 4edbb88e-394a-4f0a-b560-fe04f51889d2
+    - !<own> dcfa4cf6-99f8-4e74-b748-9c10a5985ba8
+  Components:
+    []
+- !<SceneObject/dcfa4cf6-99f8-4e74-b748-9c10a5985ba8>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone008
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -4.212345, y: -5.187164, z: 7.375661}
+    rotation: {x: -19.204840, y: -37.533714, z: -81.567070}
+    scale: {x: 0.999999, y: 1.000001, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c298200f-3885-47de-af28-9adf578d7a54
+  Components:
+    []
+- !<SceneObject/e2211c5e-5ae5-40d1-ad94-4ad8a9c3dd68>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLeg2_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 14.956350, y: -0.000027, z: -0.000280}
+    rotation: {x: 17.318710, y: 21.006491, z: 92.444237}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cf4664da-51da-4434-a928-845114e3e16b
+  Components:
+    []
+- !<SceneObject/e65b4797-22ba-4f08-b55b-626aedd0204d>
+  PrefabRemaps:
+    []
+  Name: bones_HeadBone011Bone001Bone001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 4.088440, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 22.916822}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 57804ad1-ce6b-4f37-a823-1892fabe7afe
+  Components:
+    []
+- !<SceneObject/e76ba90f-09cd-41cb-abf8-ceaa83ab17d9>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLegDigit02
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 5.113853, y: 0.000000, z: -0.000000}
+    rotation: {x: -4.440927, y: 1.808753, z: 15.701949}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/e9037a07-6fe1-4c19-b606-27173599a804>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herLLeg2_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 14.956350, y: -0.000034, z: 0.000272}
+    rotation: {x: -2.420974, y: -16.256325, z: 38.007828}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 844108b1-a710-4c9a-afce-e359fffb5088
+  Components:
+    []
+- !<SceneObject/f3d2cdaf-8576-4e97-8d1c-d88bcb95d91b>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herPelvis
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000006, y: 0.642932, z: 0.011968}
+    rotation: {x: 102.166664, y: -67.178963, z: 77.021996}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8d7c3c1b-585f-46a1-8f45-87687794372b
+    - !<own> 5c4ca93c-42da-4eaf-a086-368fd4634826
+    - !<own> 79a81cf4-7514-4770-889d-b04aea845361
+    - !<own> 3682178d-1ce1-4868-904f-6ddb6a5b5cee
+  Components:
+    []
+- !<SceneObject/fe896c10-d715-436a-9b76-26c45effe428>
+  PrefabRemaps:
+    []
+  Name: Wolf_bones_herRLegDigit02_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 4.375641, y: 0.000000, z: -0.000001}
+    rotation: {x: 0.493380, y: 0.905095, z: 29.259186}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
