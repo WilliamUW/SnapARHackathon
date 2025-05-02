@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 1002
+    size: 1013
     values:
       - Assets/FrogImageMaterial.mat
       - Assets/frog
@@ -28,6 +28,7 @@ CollapsedEntities:
       - Assets/frog/source/Frog.fbx/Meshes/Plane
       - Assets/frog/textures/Frog.png
       - Assets/frog/textures/ImageMaterial.mat
+      - Assets/gorilla
       - Assets/gorilla/source/Gorilla_hd.zip
       - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/.hidden
       - Assets/gorilla/source/Gorilla_hd/Gorilla_hd.fbx/.hidden/gorilla
@@ -56,6 +57,16 @@ CollapsedEntities:
       - Assets/oiiaioooooiai-cat/textures/ImageMaterial.mat
       - Assets/oiiaioooooiai-cat/textures/Muchkin2_BaseColor.png
       - Assets/oiiaioooooiai-cat/textures/flat.ss_graph
+      - Assets/pigeon (1)/source/Pigeon.fbx/.hidden
+      - "Assets/pigeon (1)/source/Pigeon.fbx/.hidden/my [67]"
+      - Assets/pigeon (1)/source/Pigeon.fbx/.hidden/white
+      - Assets/pigeon (1)/source/Pigeon.fbx/Animations
+      - Assets/pigeon (1)/source/Pigeon.fbx/Animations/BaseLayer
+      - "Assets/pigeon (1)/source/Pigeon.fbx/Materials/my [67]"
+      - Assets/pigeon (1)/source/Pigeon.fbx/Meshes/CommonPigeon
+      - Assets/pigeon (1)/source/Pigeon.fbx/Pigeon
+      - Assets/pigeon (1)/textures/FourthGreen.png
+      - Assets/pigeon (1)/textures/ImageMaterial.mat
       - Assets/rubber-duck
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden
       - Assets/rubber-duck/source/RubberDuck.fbx/.hidden/duckMAT
