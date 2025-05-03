@@ -815,7 +815,7 @@
       Weight: 1.000000
       PlaybackSpeed: 1.000000
       Begin: 0.000000
-      End: 4.000000
+      End: 120.000000
       Reversed: false
       Disabled: false
       BlendMode: Default
@@ -827,7 +827,7 @@
       Weight: 1.000000
       PlaybackSpeed: 1.000000
       Begin: 0.000000
-      End: 0.533333
+      End: 15.999990
       Reversed: false
       Disabled: false
       BlendMode: Default
@@ -839,7 +839,7 @@
       Weight: 1.000000
       PlaybackSpeed: 1.000000
       Begin: 0.000000
-      End: 0.566667
+      End: 17.000011
       Reversed: false
       Disabled: false
       BlendMode: Default
@@ -851,7 +851,7 @@
       Weight: 1.000000
       PlaybackSpeed: 1.000000
       Begin: 0.000000
-      End: 0.200000
+      End: 6.000000
       Reversed: false
       Disabled: false
       BlendMode: Default
