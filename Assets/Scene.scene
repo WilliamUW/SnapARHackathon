@@ -19,8 +19,8 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -37.585075, y: 0.000000, z: -1.864239}
-    rotation: {x: -360.000000, y: -90.000000, z: 0.000000}
+    position: {x: 0.000000, y: 0.000000, z: 40.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
   Children:
@@ -3905,7 +3905,7 @@
       hoverAudioTrack: !<reference.AudioTrackAsset> 97bf97ae-b2da-47d7-bde6-003f597fe888
       triggerStartAudioTrack: !<reference.AudioTrackAsset> edad7d53-55da-40b1-9025-fad0e7207862
       triggerEndAudioTrack: !<reference.AudioTrackAsset> 82028831-1631-4d7b-b548-ff6be4e0a2ba
-      holdAudioTrack: !<reference.AudioTrackAsset> 67674870-5acd-446d-98cc-0781c5a693f1
+      holdAudioTrack: !<reference.AudioTrackAsset> 18e6ebae-9c2d-4d62-9bb6-3fb05d28f96b
   ScriptTypes:
     "":
       {}
@@ -4150,8 +4150,8 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: 45.721470, y: 0.000000, z: -16.269218}
-    rotation: {x: -360.000000, y: -90.000000, z: 0.000000}
+    position: {x: 0.000000, y: 0.000000, z: -16.269218}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
   Children:
@@ -9326,7 +9326,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: 14.797665, y: 7.808804, z: 14.081953}
+    position: {x: 5.000000, y: 0.000000, z: 0.000000}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
@@ -14835,8 +14835,8 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: 0.000000, y: -0.001369, z: 3.167521}
-    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
   Children:
